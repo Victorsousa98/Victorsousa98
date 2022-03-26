@@ -4,7 +4,7 @@
 > Sou estudante de Engenharia de Software no Instituto Brasileiro de Tecnologia Avançada
 
 
-<code><a href="https://www.linkedin.com/in/victorsousa98"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" /></a></code>
+<code><a href="https://www.linkedin.com/in/victorsousa98"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="LinkedIn" /></a></code>
 
 ----
 
