@@ -16,7 +16,7 @@
 ---
 ##  Minhas Redes
 <code><a href="https://www.linkedin.com/in/victorsousa98"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn" /></a></code>
-<code><a href="tel:+5598985504091"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" title="WhatsApp" /></a></code>
+<code><a href="tel:+55098985504091"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" title="WhatsApp" /></a></code>
   
 
 ## ⭐ Informações sobre minha conta GitHub
