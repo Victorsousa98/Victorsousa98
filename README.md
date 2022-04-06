@@ -1,7 +1,7 @@
 
 ## Olá, meu nome é <strong>João Victor!</strong>
 
-> Sou estudante de Engenharia de Software no Instituto Brasileiro de Tecnologia Avançada
+> Estudante de Engenharia de Software.
 
 ----
 
