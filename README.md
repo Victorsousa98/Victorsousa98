@@ -1,7 +1,7 @@
 
 ## Olá, meu nome é <strong>João Victor!</strong>
 
-> Estudante de Engenharia de Software.
+> Estou graduando Engenharia de Software e terminado tecnologia em Análise E Desenvolvimento de Sistemas. Tenho experiência em projetos com HTML, CSS, JavaScript, NodeJs, MySql e MongoDB. Estou estudando alguns frameworks como o Bootstrap, Vue, React, Sequelize e o Mongoose
 
 ----
 
