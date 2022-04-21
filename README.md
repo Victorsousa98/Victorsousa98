@@ -7,12 +7,16 @@
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" /></td></code>
+<code><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="50" title="TypeScript"/></td></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" title="NodeJs"/></code>
+<code><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5" /></td></code>
+<code><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="50" title="CSS3"/></td></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
+<code><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="50" title="npm" /></td></code>
+<code><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="50" title="git"/></td></code>
+<code><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="50" title="JSON" /></td></code>
 ---
 ##  Minhas Redes
 <code><a href="https://www.linkedin.com/in/victorsousa98"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn" /></a></code>
